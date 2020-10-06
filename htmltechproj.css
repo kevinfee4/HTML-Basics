@@ -1,0 +1,10 @@
+<!-- Kevin Fee -->
+<!-- css file that links to the HTML file and gives it color and margins -->
+body {
+  background-color: lightSalmon;
+}
+
+h1 {
+  color: DarkBlue;
+  margin-left: 30px;
+}
